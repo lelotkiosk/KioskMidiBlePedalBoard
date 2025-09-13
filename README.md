@@ -2,7 +2,7 @@ The purpose of this code is for those who want to create their own Midi pedal co
 
 This Code works with esp32. you can experiment as much as you want. depends on your goal.
 
-thanks to this poeple and their work:
+thanks to this people and their work:
 Button2 | Lennart Hennigs
 https://github.com/LennartHennigs/Button2
 
